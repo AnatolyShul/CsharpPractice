@@ -2,7 +2,7 @@ using System.Data.Common;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography;
 
-namespace Class
+namespace ClassWork
 {
     public abstract class Animal
     {
