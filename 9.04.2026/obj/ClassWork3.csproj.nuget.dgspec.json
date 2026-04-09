@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork3/ClassWork3/ClassWork3.csproj": {}
+    "/Users/shulezhenkov/Documents/C#/CsharpPractice/9.04.2026/ClassWork3.csproj": {}
   },
   "projects": {
-    "/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork3/ClassWork3/ClassWork3.csproj": {
+    "/Users/shulezhenkov/Documents/C#/CsharpPractice/9.04.2026/ClassWork3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork3/ClassWork3/ClassWork3.csproj",
+        "projectUniqueName": "/Users/shulezhenkov/Documents/C#/CsharpPractice/9.04.2026/ClassWork3.csproj",
         "projectName": "ClassWork3",
-        "projectPath": "/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork3/ClassWork3/ClassWork3.csproj",
+        "projectPath": "/Users/shulezhenkov/Documents/C#/CsharpPractice/9.04.2026/ClassWork3.csproj",
         "packagesPath": "/Users/shulezhenkov/.nuget/packages/",
-        "outputPath": "/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork3/ClassWork3/obj/",
+        "outputPath": "/Users/shulezhenkov/Documents/C#/CsharpPractice/9.04.2026/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shulezhenkov/.nuget/NuGet/NuGet.Config"
