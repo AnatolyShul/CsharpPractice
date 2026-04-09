@@ -1,0 +1,14 @@
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/bin/Debug/net8.0/ClassWork
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/bin/Debug/net8.0/ClassWork.deps.json
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/bin/Debug/net8.0/ClassWork.runtimeconfig.json
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/bin/Debug/net8.0/ClassWork.dll
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/bin/Debug/net8.0/ClassWork.pdb
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/obj/Debug/net8.0/ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/obj/Debug/net8.0/ClassWork.AssemblyInfoInputs.cache
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/obj/Debug/net8.0/ClassWork.AssemblyInfo.cs
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/obj/Debug/net8.0/ClassWork.csproj.CoreCompileInputs.cache
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/obj/Debug/net8.0/ClassWork.dll
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/obj/Debug/net8.0/refint/ClassWork.dll
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/obj/Debug/net8.0/ClassWork.pdb
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/obj/Debug/net8.0/ClassWork.genruntimeconfig.cache
+/Users/shulezhenkov/Documents/C#/CLASSWORK/ClassWork/ClassWork/obj/Debug/net8.0/ref/ClassWork.dll

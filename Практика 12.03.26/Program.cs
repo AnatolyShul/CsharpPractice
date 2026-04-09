@@ -1,4 +1,4 @@
-using ClassWork;
+using Class;
 
 namespace Program
 {

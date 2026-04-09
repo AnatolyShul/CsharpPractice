@@ -1,0 +1,14 @@
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/bin/Debug/net8.0/SimpleClassWork
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/bin/Debug/net8.0/SimpleClassWork.deps.json
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/bin/Debug/net8.0/SimpleClassWork.runtimeconfig.json
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/bin/Debug/net8.0/SimpleClassWork.dll
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/bin/Debug/net8.0/SimpleClassWork.pdb
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/obj/Debug/net8.0/SimpleClassWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/obj/Debug/net8.0/SimpleClassWork.AssemblyInfoInputs.cache
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/obj/Debug/net8.0/SimpleClassWork.AssemblyInfo.cs
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/obj/Debug/net8.0/SimpleClassWork.csproj.CoreCompileInputs.cache
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/obj/Debug/net8.0/SimpleClassWork.dll
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/obj/Debug/net8.0/refint/SimpleClassWork.dll
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/obj/Debug/net8.0/SimpleClassWork.pdb
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/obj/Debug/net8.0/SimpleClassWork.genruntimeconfig.cache
+/Users/shulezhenkov/Documents/C#/CLASSWORK/SimpleClassWork/SimpleClassWork/obj/Debug/net8.0/ref/SimpleClassWork.dll

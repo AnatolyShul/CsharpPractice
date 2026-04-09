@@ -1,8 +1,9 @@
+﻿
 using System.Data.Common;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography;
 
-namespace ClassWork
+namespace Class
 {
     public abstract class Animal
     {
@@ -38,4 +39,3 @@ namespace ClassWork
         }
     }
 }
-
