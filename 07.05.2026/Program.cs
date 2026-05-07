@@ -19,8 +19,9 @@ namespace XMLinClass
     public class MovieDTO
     {
         //свойства с публичными сеттерами
-        public string Name{ get; set; }
-        public int Duration{ get; set; }
+        public string MovieType { get; set; }
+        public string Name { get; set; }
+        public int Duration { get; set; }
 
         //конструктор без параметров
         public MovieDTO() { }
@@ -29,12 +30,14 @@ namespace XMLinClass
 
         public MovieDTO(string name, int duration)
         {
+            MovieType = nameof(Movie);
             Name = name;
             Duration = duration;
         }
 
         public MovieDTO(Movie movie)
         {
+            MovieType = movie.GetType().Name;
             Name = movie.Name;
             Duration = movie.Duration;
         }
@@ -44,13 +47,19 @@ namespace XMLinClass
     {
         static void Main()
         {
-            Movie movie1 = new("Harry Poter", 120);
+            Movie movie1 = new Movie("Harry Poter", 120);
 
-            MovieDTO movieDTO1 = new(movie1);
+            MovieDTO movieDTO1 = new MovieDTO(movie1);
             string folderPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
             string filePath = Path.Combine(folderPath, "movie.xml");
 
             var serializer = new XmlSerializer(typeof(MovieDTO));
+            //сериализация
+            using (var writer = new StreamWriter(filePath))
+            {
+                serializer.Serialize(writer, movieDTO1);
+            }
+            //десериализация
         }
     }
 }

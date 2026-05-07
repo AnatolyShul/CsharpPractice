@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shulezhenkov/Documents/C#/CsharpPractice/07.05.2026/07.05.2026/07.05.2026.csproj": {}
+    "/Users/shulezhenkov/Documents/C#/CsharpPractice/07.05.2026/07.05.2026.csproj": {}
   },
   "projects": {
-    "/Users/shulezhenkov/Documents/C#/CsharpPractice/07.05.2026/07.05.2026/07.05.2026.csproj": {
+    "/Users/shulezhenkov/Documents/C#/CsharpPractice/07.05.2026/07.05.2026.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shulezhenkov/Documents/C#/CsharpPractice/07.05.2026/07.05.2026/07.05.2026.csproj",
+        "projectUniqueName": "/Users/shulezhenkov/Documents/C#/CsharpPractice/07.05.2026/07.05.2026.csproj",
         "projectName": "07.05.2026",
-        "projectPath": "/Users/shulezhenkov/Documents/C#/CsharpPractice/07.05.2026/07.05.2026/07.05.2026.csproj",
+        "projectPath": "/Users/shulezhenkov/Documents/C#/CsharpPractice/07.05.2026/07.05.2026.csproj",
         "packagesPath": "/Users/shulezhenkov/.nuget/packages/",
-        "outputPath": "/Users/shulezhenkov/Documents/C#/CsharpPractice/07.05.2026/07.05.2026/obj/",
+        "outputPath": "/Users/shulezhenkov/Documents/C#/CsharpPractice/07.05.2026/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shulezhenkov/.nuget/NuGet/NuGet.Config"
